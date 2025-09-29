@@ -9,7 +9,7 @@
 | Shintya Ayu Wardani     | 122140138 | 
 ---
 
-Berikut link source code : <a href="https://colab.research.google.com/drive/17uu26xLrM-hf8yF04S_icx59O8YLP-5k?usp=sharing">
+Berikut link source code : [![Logo](https://colab.research.google.com/drive/17uu26xLrM-hf8yF04S_icx59O8YLP-5k?usp=sharing)
 
 ## **Library yang Digunakan**
 
