@@ -9,7 +9,7 @@
 | Shintya Ayu Wardani     | 122140138 | 
 ---
 
-Berikut link source code : <a href="https:"></a>
+Berikut link source code : <a href="https://colab.research.google.com/drive/17uu26xLrM-hf8yF04S_icx59O8YLP-5k?usp=sharing"></a>
 
 ## **Library yang Digunakan**
 
@@ -17,17 +17,17 @@ Berikut merupakan tabel perbandingan antara Plain-34 dan ResNet-34
 
 | **No.** | **Perbandingan Metrik**         | **Plain-34**  | **ResNest-34** |
 |-----|-------------------------------------|---------------|----------------|
-| 1   | `training accuracy`                 |               |                |
-| 2   | `validation accuracy`               |               |                |
-| 3   | `training loss`                     |               |                |
-| 4   | `validation loss`                   |               |                |
+| 1   | `training accuracy`                 |     26.67%    |   40.42%       |
+| 2   | `validation accuracy`               |     20%       |   20%          |
+| 3   | `training loss`                     |     1.59%     |   1.46%        |
+| 4   | `validation loss`                   |     1.12%     |   18.83        |
 ---
 
 ## **Grafik Sederhana**
 
 ## **Analisis**
 
-Berikut analisis singkat mengenai perbedaan performa dan dampak residual connectionnya
+
 
 ## **Konfigurasi Hyperparameter**
 
