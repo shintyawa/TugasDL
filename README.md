@@ -25,8 +25,7 @@ Berikut merupakan tabel perbandingan antara Plain-34 dan ResNet-34
 
 ## **Grafik Sederhana**
 
-![Grafik](![grafik](https://github.com/user-attachments/assets/f0d425d4-7e84-44fd-8071-eebc5ee2c762)
-)
+![Grafik](assets/logo.png)
 
 ## **Analisis**
 
