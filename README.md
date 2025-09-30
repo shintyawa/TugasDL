@@ -15,7 +15,7 @@ Berikut link source code : <a href="https://colab.research.google.com/drive/17uu
 
 Berikut merupakan tabel perbandingan antara Plain-34 dan ResNet-34
 
-# Tahap 1
+### Tahap 1
 
 | **No.** | **Perbandingan Metrik**         | **Plain-34**  | **ResNet-34** |
 |-----|-------------------------------------|---------------|----------------|
@@ -25,7 +25,7 @@ Berikut merupakan tabel perbandingan antara Plain-34 dan ResNet-34
 | 4   | `validation loss`                   |     8         |   8            |
 ---
 
-# Tahap 2
+### Tahap 2
 
 | **No.** | **Perbandingan Metrik**         | **Plain-34**  | **ResNet-34** |
 |-----|-------------------------------------|---------------|----------------|
