@@ -17,7 +17,7 @@ Berikut merupakan tabel perbandingan antara Plain-34 dan ResNet-34
 
 ### Tahap 1
 
-| **No.** | **Perbandingan Metrik**         | **Plain-34**  | **ResNet-34** |
+| **No.** | **Perbandingan Metrik**         | **Plain-34**  | **ResNet-34**  |
 |-----|-------------------------------------|---------------|----------------|
 | 1   | `training accuracy`                 |     28.7%     |   50%          |
 | 2   | `validation accuracy`               |     20%       |   27%          |
@@ -27,7 +27,7 @@ Berikut merupakan tabel perbandingan antara Plain-34 dan ResNet-34
 
 ### Tahap 2
 
-| **No.** | **Perbandingan Metrik**         | **Plain-34**  | **ResNet-34** |
+| **No.** | **Perbandingan Metrik**         | **Plain-34**  | **ResNet-34**  |
 |-----|-------------------------------------|---------------|----------------|
 | 1   | `training accuracy`                 |     46.6%     |   47.7%        |
 | 2   | `validation accuracy`               |     30%       |   32%          |
@@ -47,7 +47,7 @@ Bisa dilihat dari grafik tahap 1 dan tahap 2 bahwa, ResNet-34 terbukti lebih ung
 
 ## **Konfigurasi Hyperparameter**
 
-| **No.** | **Hyperparameter** | **Plain-34**      | **ResNest-34**   |
+| **No.** | **Hyperparameter** | **Plain-34**      | **ResNet-34**    |
 |-----|------------------------|-------------------|------------------|
 | 1   | `epoch`                |        2          |        2         |
 | 2   | `optimizer`            |      AdamW        |      AdamW       |
