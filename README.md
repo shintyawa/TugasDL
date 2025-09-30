@@ -22,7 +22,7 @@ Berikut merupakan tabel perbandingan antara Plain-34 dan ResNet-34
 | 1   | `training accuracy`                 |     28.7%     |   50%          |
 | 2   | `validation accuracy`               |     20%       |   27%          |
 | 3   | `training loss`                     |     1.59      |   1.18         |
-| 4   | `validation loss`                   |     8         |   8            |
+| 4   | `validation loss`                   |     80        |   8            |
 ---
 
 ### Tahap 2
