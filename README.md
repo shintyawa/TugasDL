@@ -15,6 +15,8 @@ Berikut link source code : <a href="https://colab.research.google.com/drive/17uu
 
 Berikut merupakan tabel perbandingan antara Plain-34 dan ResNet-34
 
+# 
+
 | **No.** | **Perbandingan Metrik**         | **Plain-34**  | **ResNest-34** |
 |-----|-------------------------------------|---------------|----------------|
 | 1   | `training accuracy`                 |     26.67%    |   40.42%       |
@@ -25,7 +27,9 @@ Berikut merupakan tabel perbandingan antara Plain-34 dan ResNet-34
 
 ## **Grafik Sederhana**
 
-![Grafik](assets/logo.png)
+![Tahap 1](assets/logo.png)
+
+![Tahap 2](assets/logo.png)
 
 ## **Analisis**
 
