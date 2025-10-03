@@ -37,9 +37,9 @@ Berikut merupakan tabel perbandingan antara Plain-34 dan ResNet-34
 
 ## **Grafik Sederhana**
 
-![Tahap 1](Tahap1.jpg)
+![Tahap 1](Tahap1Plain-34.jpg)
 
-![Tahap 2](Tahap2.jpg)
+![Tahap 2](Tahap2ResNet-34.jpg)
 
 ## **Analisis**
 
