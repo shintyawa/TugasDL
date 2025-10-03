@@ -17,29 +17,29 @@ Berikut merupakan tabel perbandingan antara Plain-34 dan ResNet-34
 
 ### Tahap 1
 
-| **No.** | **Perbandingan Metrik**         | **Plain-34**  | **ResNet-34**  |
-|-----|-------------------------------------|---------------|----------------|
-| 1   | `training accuracy`                 |     28.7%     |   52%          |
-| 2   | `validation accuracy`               |     20%       |   27%          |
-| 3   | `training loss`                     |     1.59      |   1.18         |
-| 4   | `validation loss`                   |     80        |   8            |
+| **No.** | **Perbandingan Metrik**         | **Plain-34**  | 
+|-----|-------------------------------------|---------------|
+| 1   | `training accuracy`                 |     80%       |
+| 2   | `validation accuracy`               |     45%       |
+| 3   | `training loss`                     |     0.63      |
+| 4   | `validation loss`                   |     3.40      |
 ---
 
 ### Tahap 2
 
-| **No.** | **Perbandingan Metrik**         | **Plain-34**  | **ResNet-34**  |
-|-----|-------------------------------------|---------------|----------------|
-| 1   | `training accuracy`                 |     46.6%     |   47.7%        |
-| 2   | `validation accuracy`               |     30%       |   32%          |
-| 3   | `training loss`                     |     1.30      |   1.27         |
-| 4   | `validation loss`                   |     5         |   2            |
+| **No.** | **Perbandingan Metrik**         | **ResNet-34** |
+|-----|-------------------------------------|---------------|
+| 1   | `training accuracy`                 |     99.58%    |
+| 2   | `validation accuracy`               |     46.67%    |
+| 3   | `training loss`                     |     0.03      |
+| 4   | `validation loss`                   |     1.87      |
 ---
 
 ## **Grafik Sederhana**
 
-![Tahap 1](Tahap%201.jpg)
+![Tahap 1](Tahap1.jpg)
 
-![Tahap 2](Tahap%202.jpg)
+![Tahap 2](Tahap2.jpg)
 
 ## **Analisis**
 
@@ -49,7 +49,7 @@ Bisa dilihat dari grafik tahap 1 dan tahap 2 bahwa, ResNet-34 terbukti lebih ung
 
 | **No.** | **Hyperparameter** | **Plain-34**      | **ResNet-34**    |
 |-----|------------------------|-------------------|------------------|
-| 1   | `epoch`                |        2          |        2         |
+| 1   | `epoch`                |       20          |       20         |
 | 2   | `optimizer`            |      AdamW        |      AdamW       |
 | 3   | `loss function`        | Cross-entropy loss|Cross-entropy loss|
 | 4   | `learning rate`        |       0.001       |      0.001       |
