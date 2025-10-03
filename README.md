@@ -47,7 +47,7 @@ Pada grafik Plain-34 (No Skip) terlihat bahwa training loss turun secara konsist
 
 Sebaliknya, pada ResNet-34 (With Skip), training loss turun sangat cepat dan hampir mendekati nol, dengan training accuracy yang hampir mencapai 100% sejak epoch awal. Validation accuracy juga relatif lebih stabil dengan capaian yang lebih baik dibanding Plain-34, meskipun masih terlihat adanya fluktuasi pada validation loss. Hal ini menandakan bahwa residual connection berhasil membantu mempercepat konvergensi model dan membuat proses training lebih stabil.
 
-Dari hasil ini dapat disimpulkan bahwa ResNet-34 memiliki performa yang jauh lebih unggul dibanding Plain-34. Residual connection terbukti efektif mengatasi permasalahan *vanishing gradient*, mempercepat proses belajar, serta meningkatkan kemampuan generalisasi. Walaupun masih terdapat gap antara training dan validation performance, ResNet-34 tetap lebih efisien dan stabil dibanding arsitektur Plain-34.
+Dari hasil ini dapat disimpulkan bahwa ResNet-34 memiliki performa yang jauh lebih unggul dibanding Plain-34. Residual connection terbukti efektif mengatasi permasalahan vanishing gradient, mempercepat proses belajar, serta meningkatkan kemampuan generalisasi. Walaupun masih terdapat gap antara training dan validation performance, ResNet-34 tetap lebih efisien dan stabil dibanding arsitektur Plain-34.
 
 
 ## **Konfigurasi Hyperparameter**
